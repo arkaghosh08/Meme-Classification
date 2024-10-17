@@ -1,0 +1,13 @@
+lightning
+matplotlib
+mlflow
+numpy
+pandas
+Pillow
+scikit_learn
+torch
+torchmetrics
+torchvision
+tqdm
+safetensors
+huggingface_hub
