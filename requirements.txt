@@ -10,4 +10,5 @@ torchmetrics
 torchvision
 tqdm
 safetensors
+seaborn
 huggingface_hub
