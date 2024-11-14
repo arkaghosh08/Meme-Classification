@@ -1,7 +1,6 @@
 import os
 from pickle import load, dump
 import pytorch_lightning as pl
-from sympy import N
 import torch
 import torch.nn as nn
 import torch.optim as optim
